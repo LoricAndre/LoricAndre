@@ -1,8 +1,3 @@
-# 🔮About Me
-I'm a french engineering student interested in IT in general and cybersecurity in particular.
-
-I enjoy programming, neovim, linux and ricing.
-
 # 📊 Top Repositories
 [![yRice](https://github-readme-stats.vercel.app/api/pin/?username=LoricAndre&repo=yRice)](https://github.com/LoricAndre/yRice)
 [![yRice](https://github-readme-stats.vercel.app/api/pin/?username=LoricAndre&repo=dots)](https://github.com/LoricAndre/dots)
