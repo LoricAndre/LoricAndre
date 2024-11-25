@@ -1,5 +1,9 @@
 # 💫 About Me:
-DevOps/SR Engineer<br><br>Heavy FOSS user and occasional contributor<br><br>K8S Lover & Rust enthusiast
+DevOps/SR Engineer
+<br><br>
+Heavy FOSS user and maintainer of [skim](https://github.com/skim-rs/skim), the Rust fuzzy-finder.
+<br><br>
+K8S Lover & Rust enthusiast
 
 
 # 💻 Tech Stack:
